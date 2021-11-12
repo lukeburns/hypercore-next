@@ -34,7 +34,7 @@
     "compact-encoding": "^2.0.0",
     "crc32-universal": "^1.0.1",
     "flat-tree": "^1.7.0",
-    "hypercore-crypto": "^2.1.1",
+    "hypercore-crypto": "lukeburns/hypercore-crypto#ristretto",
     "is-options": "^1.0.1",
     "random-access-file": "^2.1.4",
     "random-array-iterator": "^1.0.0",
